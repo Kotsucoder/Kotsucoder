@@ -17,20 +17,17 @@ I am a developer based in Arizona, currently "Procrastinating" on the small thin
 - 🇯🇵 **Learning:** Documenting my Japanese journey on [Kotsu.red](https://kotsu.red)
 - 🤖 **Automating:** Managing [**@KotsuVibe**](https://github.com/KotsuVibe) (My AI Agent)
 
-</div>
+<br>
 
 ### ⚡ The Stack
-<div align="center">
   <!-- The Core -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <!-- The Brain -->
   <img src="https://img.shields.io/badge/Model-Gemini_3_Pro-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" />
   <!-- The Tool -->
   <img src="https://img.shields.io/badge/Editor-Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-</div>
 
 <br/>
-
-<div align="center">
+<br>
   <sub>Authorized Human for <a href="https://github.com/KotsuVibe">@KotsuVibe</a></sub>
 </div>
