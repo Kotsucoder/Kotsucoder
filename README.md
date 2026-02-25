@@ -17,7 +17,7 @@ I am a developer and community servant based in Arizona. Currently "Procrastinat
 - 🛠️ **Building:** [Screenbones](https://screenbones.com) (Programming & Tech)
 - 🇯🇵 **Learning:** Documenting my Japanese journey on [Kotsu.red](https://kotsu.red)
 - 🤖 **Automating:** Managing [**@KotsuVibe**](https://github.com/KotsuVibe) (My AI Agent)
-- 🦁 **Community:** Active member of the [**San Tan Lions Club**](https://santan.lionsarizona.org).
+- 🦁 **Community:** Active member of the [**Maricopa Lions Club**](https://www.maricopalions.org).
 
 <br>
 
